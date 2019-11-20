@@ -1,6 +1,6 @@
 Web1
 =============
-> HTML을 소개하는 웹페이지
+> HTML, CSS, JavaScript를 소개하는 웹페이지
 
 📝 Introduction
 ------------
