@@ -1,6 +1,6 @@
 Web1
 =============
-📝 :memo: Introduction
+📝 Introduction
 ------------
 
 생활코딩에서 공부하며 만든 첫 웹사이트입니다.
