@@ -2,6 +2,11 @@ Web1
 =============
 > HTML, CSS, JavaScript를 소개하는 웹사이트
 
+:computer: Developerment skill
+------------
+- 언어 : HTML
+- IDE : Atom
+
 📝 Introduction
 ------------
 
